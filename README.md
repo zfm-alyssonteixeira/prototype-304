@@ -1,10 +1,5 @@
 ## Introduction
 
-This is a simple pipeline example for a [Laravel]((https://laravel.com/docs)) application, showing just
-how easy it is to get up and running with Laravel development using GitLab.
-
-## What's contained in this project
-
 This repository contains the basic folder structure of a Laravel application. 
 
 The `.gitlab-ci.yml` contains the configuration needed for GitLab to build your code. Let's take a look, section by section.
